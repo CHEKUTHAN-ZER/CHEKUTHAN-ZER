@@ -21,6 +21,5 @@ ENGINEERING STUDENT<br>I AM CURRENTLY LEARNING FRONTENT DEVELOPMENT(HTML,CSS,JS)
 ---
 [![](https://visitcount.itsvg.in/api?id=CHEKUTHAN-ZER&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-You can click the Preview link to take a look at your changes.
---->
+
+
